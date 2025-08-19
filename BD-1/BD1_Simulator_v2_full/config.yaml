@@ -1,0 +1,63 @@
+# === BD-1 Simulator Config v2 Full ===
+
+wake_word: "hey bd1"
+ollama_model: "llama3.1"
+fallback_emotion: "10_Neutral"
+vad_threshold: 0.6
+mic_device: default
+tts_enabled: true
+led_simulation: true
+servo_simulation: true
+
+emotions:
+  happy: "01_happy_thrilled"
+  surprise: "03_Surprise_Questionning"
+  sad: "04_Sadness_Deception"
+  angry: "05_Angry"
+  success: "07_Success"
+  alert: "09_Alert"
+  neutral: "10_Neutral"
+
+behaviors:
+  happy:
+    leds: ["green", "blue"]
+    servos:
+      neck_tilt: 15
+      neck_twist: 5
+      antennae: 0
+  surprise:
+    leds: ["yellow"]
+    servos:
+      neck_tilt: -10
+      neck_twist: 20
+      antennae: 15
+  sad:
+    leds: ["blue"]
+    servos:
+      neck_tilt: -20
+      neck_twist: 0
+      antennae: -10
+  angry:
+    leds: ["red"]
+    servos:
+      neck_tilt: 0
+      neck_twist: 30
+      antennae: -20
+  success:
+    leds: ["green"]
+    servos:
+      neck_tilt: 10
+      neck_twist: -10
+      antennae: 0
+  alert:
+    leds: ["red", "flashing"]
+    servos:
+      neck_tilt: 0
+      neck_twist: 0
+      antennae: -30
+  neutral:
+    leds: ["white"]
+    servos:
+      neck_tilt: 0
+      neck_twist: 0
+      antennae: 0

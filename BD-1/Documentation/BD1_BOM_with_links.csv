@@ -1,0 +1,22 @@
+Item,Quantity,Suggested Part / Example,Link
+Raspberry Pi 4 (2GB or 4GB),1,Pi 4 Model B,https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+MicroSD Card 64GB (Class 10),1,SanDisk Ultra 64GB,https://www.amazon.com/dp/B073JYVKNX
+Pi 4 Power Supply 5V 3A USB-C,1,Official Raspberry Pi PSU,https://www.raspberrypi.com/products/type-c-power-supply/
+5V 6A DC Power Supply (barrel jack),1,MEAN WELL GST60A05,https://www.digikey.com/en/products/detail/mean-well-usa-inc/GST60A05-P1J/7706214
+Barrel Jack to Screw Terminal Adapter,1,Adafruit #368,https://www.adafruit.com/product/368
+1000µF 6.3V+ Electrolytic Capacitor,1,Generic,https://www.amazon.com/dp/B07T1G7B2D
+330Ω Resistor,2,Through-hole 1/4W,https://www.amazon.com/dp/B07ZQ2QGVV
+Logic Level Shifter (3.3V↔5V),1,BSS138 bidirectional,https://www.adafruit.com/product/757
+Adafruit 16-Channel PWM/Servo Driver (PCA9685),1,Adafruit #815,https://www.adafruit.com/product/815
+MG996R Metal Gear Servo (head DoF),3,High torque ~10kg·cm,https://www.amazon.com/dp/B07K8BL7R7
+MG90S Metal Gear Micro Servo (stim drawer),1,MG90S,https://www.amazon.com/dp/B00X7H3Z08
+SG90 Micro Servo (antennas),2,SG90,https://www.amazon.com/dp/B07L2SF3R7
+Servo Extension Wires (female-female),10,3-pin,https://www.amazon.com/dp/B07G3GQ66H
+M3 Assorted Hardware Kit,1,Screws/Nuts/Standoffs,https://www.amazon.com/dp/B01N2J7X94
+WS2812B LEDs (10 total),1,1x NeoPixel 8-stick + 2 pixels OR 30 LED strip,https://www.adafruit.com/product/1426
+Extra WS2812B single pixels (optional),2,Adafruit #1612,https://www.adafruit.com/product/1612
+22–24 AWG Hook-up Wire (red/black/green),1,Wire spool set,https://www.amazon.com/dp/B07VQYXL4S
+Heat-shrink Tubing Assortment,1,Assorted sizes,https://www.amazon.com/dp/B01M7Y2M2G
+USB Microphone,1,Mini USB mic,https://www.amazon.com/dp/B07Y2DP6Q1
+USB Speaker OR PAM8302 Mini Amp,1,Adafruit #2130,https://www.adafruit.com/product/2130
+8Ω 3W Speaker,1,Adafruit #1314,https://www.adafruit.com/product/1314

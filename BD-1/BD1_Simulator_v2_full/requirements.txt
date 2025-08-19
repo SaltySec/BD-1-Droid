@@ -1,0 +1,7 @@
+pyttsx3
+pygame
+PyYAML
+sounddevice
+vosk
+ollama
+tkinter
